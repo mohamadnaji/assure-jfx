@@ -1,0 +1,4 @@
+later add enter button binding keys see extarnal links
+
+to get a backup from naji go to db and edit connnection
+String m_Connection = "jdbc:sqlserver://localhost:1433;databaseName=Project_Prototype;user=pro;password=123;";
