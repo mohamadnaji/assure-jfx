@@ -1,0 +1,87 @@
+.button {
+    -fx-font-weight: bold;
+    -fx-background-color:   #016809;
+    -fx-background-radius: 30;
+    -fx-font-size: 14;
+    -fx-text-fill: white;
+}
+
+.button:hover{
+    
+    
+    -fx-background-color: white;
+    -fx-text-fill:   #016809  /* #016809*/;
+    -fx-border-color:    #016809;
+    -fx-border-width: 2;
+    -fx-border-radius: 30;
+    -fx-font-size: 14;
+    
+    
+    
+}
+
+#back{
+    -fx-background-color: white;
+    -fx-text-fill:      #016809;
+    -fx-border-color:    #ffffff;
+    -fx-border-radius: 30;
+    -fx-font-size: 14;
+    
+	
+}
+#back:hover{
+	 -fx-font-weight: bold;
+    -fx-background-color:   #016809;
+    -fx-background-radius: 30;
+    -fx-font-size: 14;
+    -fx-text-fill: white;
+    -fx-border-width: 6;
+}
+.button:pressed{
+    
+    -fx-background-color: white;
+    -fx-text-fill:   #016809;
+    -fx-border-color:    #016809;
+    -fx-border-width: 2;
+    -fx-rotate: 4;
+    -fx-font-size: 14;
+    
+}
+
+
+.table-view{
+    
+    -fx-background-color: aliceblue;
+    -fx-font-size:14;
+    -fx-font-weight: bold;
+    
+    
+}
+
+.table-view .column-header {
+    -fx-background-color: #016809;
+}
+
+
+.table-view .column-header-background .label{
+    
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+}
+
+.table-view .table-cell{
+    -fx-font-weight:bold;
+    -fx-font-size:14px;
+    -fx-text-fill: #B71C1C;
+    
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #D1C4E9;  
+}
+
+
+
+.table-row-cell:hover {
+    -fx-background-color: #D1C4E9;
+}
