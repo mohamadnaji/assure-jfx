@@ -1,0 +1,1676 @@
+1
+00:00:06,740 --> 00:00:09,410
+<font color="#E5E5E5">okay in this video</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> am going to talk</font>
+
+2
+00:00:09,410 --> 00:00:14,780
+<font color="#CCCCCC">about</font><font color="#E5E5E5"> the user</font><font color="#CCCCCC"> defined data</font><font color="#E5E5E5"> types let's</font>
+
+3
+00:00:14,780 --> 00:00:17,060
+see first<font color="#E5E5E5"> what is</font><font color="#CCCCCC"> water the</font><font color="#E5E5E5"> user defined</font>
+
+4
+00:00:17,060 --> 00:00:18,830
+data<font color="#E5E5E5"> type user defined data</font><font color="#CCCCCC"> drive</font><font color="#E5E5E5"> is</font>
+
+5
+00:00:18,830 --> 00:00:20,360
+nothing but the data type which is
+
+6
+00:00:20,360 --> 00:00:22,790
+defined<font color="#E5E5E5"> on the other type status already</font>
+
+7
+00:00:22,790 --> 00:00:25,880
+<font color="#CCCCCC">even defined in the sequel server</font><font color="#E5E5E5"> now</font>
+
+8
+00:00:25,880 --> 00:00:28,070
+why do you<font color="#E5E5E5"> be require a user different</font>
+
+9
+00:00:28,070 --> 00:00:29,720
+different data type in the first place
+
+10
+00:00:29,720 --> 00:00:32,090
+<font color="#E5E5E5">you</font><font color="#CCCCCC"> require a user different database</font>
+
+11
+00:00:32,090 --> 00:00:33,920
+type in the first place because<font color="#E5E5E5"> of all</font>
+
+12
+00:00:33,920 --> 00:00:37,670
+the<font color="#E5E5E5"> simple reason that in case if</font><font color="#CCCCCC"> you</font>
+
+13
+00:00:37,670 --> 00:00:39,970
+are using
+
+14
+00:00:41,730 --> 00:00:44,610
+the variable type<font color="#E5E5E5"> again and again which</font>
+
+15
+00:00:44,610 --> 00:00:47,910
+has<font color="#E5E5E5"> a same length and</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> same data type</font>
+
+16
+00:00:47,910 --> 00:00:54,110
+or<font color="#CCCCCC"> the same data</font><font color="#E5E5E5"> type</font><font color="#CCCCCC"> is better</font><font color="#E5E5E5"> to</font>
+
+17
+00:00:54,110 --> 00:00:59,460
+<font color="#E5E5E5">create a user-defined data type and use</font>
+
+18
+00:00:59,460 --> 00:01:01,370
+the<font color="#CCCCCC"> it everywhere</font>
+
+19
+00:01:01,370 --> 00:01:04,050
+why do you or why<font color="#E5E5E5"> what do you like to</font>
+
+20
+00:01:04,050 --> 00:01:06,869
+<font color="#E5E5E5">you create it in the first</font><font color="#CCCCCC"> place</font><font color="#E5E5E5"> the</font>
+
+21
+00:01:06,869 --> 00:01:11,670
+reason<font color="#CCCCCC"> is very simple</font><font color="#E5E5E5"> what happens is</font>
+
+22
+00:01:11,670 --> 00:01:15,000
+<font color="#CCCCCC">that suppose if you have a name</font><font color="#E5E5E5"> you have</font>
+
+23
+00:01:15,000 --> 00:01:17,759
+defined<font color="#E5E5E5"> a name that is</font><font color="#CCCCCC"> where care for T</font>
+
+24
+00:01:17,759 --> 00:01:21,300
+<font color="#E5E5E5">in every table maybe you have employed</font>
+
+25
+00:01:21,300 --> 00:01:24,000
+table maybe a customer table<font color="#E5E5E5"> and many</font>
+
+26
+00:01:24,000 --> 00:01:26,670
+other tables like that now you are
+
+27
+00:01:26,670 --> 00:01:29,460
+defining a name<font color="#E5E5E5"> that is basically a name</font>
+
+28
+00:01:29,460 --> 00:01:31,440
+of the customer<font color="#E5E5E5"> name of the employee</font><font color="#CCCCCC"> and</font>
+
+29
+00:01:31,440 --> 00:01:35,119
+you have a<font color="#E5E5E5"> Val care for tea now suppose</font>
+
+30
+00:01:35,119 --> 00:01:38,670
+this being a standard<font color="#E5E5E5"> now suppose if you</font>
+
+31
+00:01:38,670 --> 00:01:44,039
+wanted to change this thing<font color="#E5E5E5"> to maybe 45</font>
+
+32
+00:01:44,039 --> 00:01:48,119
+or maybe<font color="#CCCCCC"> 30</font><font color="#E5E5E5"> whatever it was lesser in</font>
+
+33
+00:01:48,119 --> 00:01:51,390
+length<font color="#E5E5E5"> or a</font><font color="#CCCCCC"> makes more</font><font color="#E5E5E5"> in a length no</font>
+
+34
+00:01:51,390 --> 00:01:53,939
+you would<font color="#CCCCCC"> have</font><font color="#E5E5E5"> to change it in every</font>
+
+35
+00:01:53,939 --> 00:01:57,479
+<font color="#E5E5E5">place</font><font color="#CCCCCC"> everywhere</font><font color="#E5E5E5"> in all the tables</font>
+
+36
+00:01:57,479 --> 00:01:59,340
+wherever you have mentioned<font color="#CCCCCC"> it been</font>
+
+37
+00:01:59,340 --> 00:02:01,860
+whatever<font color="#E5E5E5"> places you have</font><font color="#CCCCCC"> specified it</font>
+
+38
+00:02:01,860 --> 00:02:04,799
+even in the<font color="#E5E5E5"> store procedures wherever</font>
+
+39
+00:02:04,799 --> 00:02:08,579
+you have used it<font color="#E5E5E5"> how if you had used a</font>
+
+40
+00:02:08,579 --> 00:02:10,590
+<font color="#CCCCCC">user-defined data type in that place you</font>
+
+41
+00:02:10,590 --> 00:02:13,950
+<font color="#CCCCCC">would need</font><font color="#E5E5E5"> to change that data type only</font>
+
+42
+00:02:13,950 --> 00:02:16,829
+<font color="#CCCCCC">in one place and it will get changed it</font>
+
+43
+00:02:16,829 --> 00:02:18,989
+will get affected in all the places
+
+44
+00:02:18,989 --> 00:02:20,880
+<font color="#E5E5E5">wherever you are using it</font>
+
+45
+00:02:20,880 --> 00:02:24,510
+as simple<font color="#CCCCCC"> as that that is the main</font>
+
+46
+00:02:24,510 --> 00:02:29,190
+<font color="#E5E5E5">reason for using a user-defined data</font>
+
+47
+00:02:29,190 --> 00:02:37,520
+type<font color="#E5E5E5"> it gives you ability to create</font>
+
+48
+00:02:37,520 --> 00:02:43,400
+<font color="#E5E5E5">tables and</font><font color="#CCCCCC"> store procedure</font><font color="#E5E5E5"> that are more</font>
+
+49
+00:02:48,739 --> 00:02:52,730
+uniform in the data type and can be
+
+50
+00:02:52,730 --> 00:02:56,150
+<font color="#E5E5E5">easily modified</font><font color="#CCCCCC"> okay now let's start</font>
+
+51
+00:02:56,150 --> 00:02:59,329
+<font color="#CCCCCC">creating a data type</font><font color="#E5E5E5"> okay it is really</font>
+
+52
+00:02:59,329 --> 00:03:02,769
+simple<font color="#E5E5E5"> easily use the create create type</font>
+
+53
+00:03:02,769 --> 00:03:06,500
+<font color="#CCCCCC">bbo is the schema name you will be using</font>
+
+54
+00:03:06,500 --> 00:03:09,590
+<font color="#E5E5E5">a schema</font><font color="#CCCCCC"> name and the name of the data</font>
+
+55
+00:03:09,590 --> 00:03:14,139
+type what do you want to create and from
+
+56
+00:03:14,139 --> 00:03:16,670
+what data<font color="#E5E5E5"> type you want to create</font>
+
+57
+00:03:16,670 --> 00:03:20,239
+now suppose they for example<font color="#E5E5E5"> create type</font>
+
+58
+00:03:20,239 --> 00:03:24,439
+<font color="#E5E5E5">dbo name from</font><font color="#CCCCCC"> VAR</font><font color="#E5E5E5"> car</font><font color="#CCCCCC"> 14</font><font color="#E5E5E5"> what it does is</font>
+
+59
+00:03:24,439 --> 00:03:29,629
+<font color="#E5E5E5">basically it creates a data type known</font>
+
+60
+00:03:29,629 --> 00:03:34,969
+as named as name from<font color="#CCCCCC"> Vark are 40 means</font>
+
+61
+00:03:34,969 --> 00:03:39,129
+it would be<font color="#E5E5E5"> Barker 40 type</font>
+
+62
+00:03:39,580 --> 00:03:43,510
+instead of using every time now for the
+
+63
+00:03:43,510 --> 00:03:46,600
+name for a first name last name<font color="#E5E5E5"> back at</font>
+
+64
+00:03:46,600 --> 00:03:50,290
+40 I could use it that name<font color="#CCCCCC"> that I</font>
+
+65
+00:03:50,290 --> 00:03:54,940
+defined<font color="#E5E5E5"> at variable as name</font><font color="#CCCCCC"> I just come</font>
+
+66
+00:03:54,940 --> 00:03:56,110
+to it and I<font color="#E5E5E5"> will show</font><font color="#CCCCCC"> it to</font><font color="#E5E5E5"> you how it</font>
+
+67
+00:03:56,110 --> 00:03:56,530
+is<font color="#E5E5E5"> done</font>
+
+68
+00:03:56,530 --> 00:04:01,120
+let's first<font color="#E5E5E5"> create these data types we</font>
+
+69
+00:04:01,120 --> 00:04:03,340
+<font color="#E5E5E5">this is first creating a data type with</font>
+
+70
+00:04:03,340 --> 00:04:09,010
+<font color="#E5E5E5">a data type name for</font><font color="#CCCCCC"> vodka for tea and</font>
+
+71
+00:04:09,010 --> 00:04:12,030
+I'm going to execute<font color="#E5E5E5"> it</font>
+
+72
+00:04:14,480 --> 00:04:16,820
+<font color="#E5E5E5">under it has executed</font><font color="#CCCCCC"> now again I</font><font color="#E5E5E5"> am</font>
+
+73
+00:04:16,820 --> 00:04:19,220
+creating an<font color="#E5E5E5"> another data type creating</font>
+
+74
+00:04:19,220 --> 00:04:21,380
+another type from the<font color="#E5E5E5"> data type</font>
+
+75
+00:04:21,380 --> 00:04:25,990
+<font color="#CCCCCC">date/time</font><font color="#E5E5E5"> here it is again</font>
+
+76
+00:04:27,500 --> 00:04:30,390
+executing it
+
+77
+00:04:30,390 --> 00:04:35,360
+<font color="#E5E5E5">this time I have created a DDD</font>
+
+78
+00:04:35,440 --> 00:04:38,200
+which is their type date<font color="#E5E5E5"> time I can I</font>
+
+79
+00:04:38,200 --> 00:04:40,120
+would<font color="#CCCCCC"> be</font><font color="#E5E5E5"> using it wherever I want</font><font color="#CCCCCC"> I</font>
+
+80
+00:04:40,120 --> 00:04:41,730
+could<font color="#E5E5E5"> always use it at duty</font>
+
+81
+00:04:41,730 --> 00:04:43,840
+usually you don't use it for<font color="#E5E5E5"> the date</font>
+
+82
+00:04:43,840 --> 00:04:46,380
+time for the very simple reason because
+
+83
+00:04:46,380 --> 00:04:48,940
+<font color="#CCCCCC">date time is always going to be fixed it</font>
+
+84
+00:04:48,940 --> 00:04:51,190
+rate it<font color="#CCCCCC"> doesn't may actually change</font><font color="#E5E5E5"> any</font>
+
+85
+00:04:51,190 --> 00:04:53,680
+<font color="#E5E5E5">time</font><font color="#CCCCCC"> oh</font><font color="#E5E5E5"> you cannot do any motivation</font><font color="#CCCCCC"> for</font>
+
+86
+00:04:53,680 --> 00:04:56,830
+date time but this<font color="#CCCCCC"> is just for making it</font>
+
+87
+00:04:56,830 --> 00:04:58,870
+all the<font color="#E5E5E5"> thing uniform rather than</font>
+
+88
+00:04:58,870 --> 00:05:01,440
+<font color="#E5E5E5">actually</font>
+
+89
+00:05:09,810 --> 00:05:14,070
+really creating the date<font color="#E5E5E5"> okay now here</font>
+
+90
+00:05:14,070 --> 00:05:18,270
+is one more<font color="#CCCCCC"> never define will see the</font>
+
+91
+00:05:18,270 --> 00:05:21,570
+<font color="#E5E5E5">status usually use a straight up like a</font>
+
+92
+00:05:21,570 --> 00:05:24,510
+bit<font color="#E5E5E5"> for true and</font><font color="#CCCCCC"> false</font><font color="#E5E5E5"> whether the</font>
+
+93
+00:05:24,510 --> 00:05:27,390
+employee<font color="#E5E5E5"> is actually still working in</font>
+
+94
+00:05:27,390 --> 00:05:29,040
+<font color="#E5E5E5">their organization or not</font>
+
+95
+00:05:29,040 --> 00:05:30,450
+were they not working<font color="#E5E5E5"> whether the</font>
+
+96
+00:05:30,450 --> 00:05:34,560
+product<font color="#E5E5E5"> is available or not bid remember</font>
+
+97
+00:05:34,560 --> 00:05:36,240
+though it is known as a bit<font color="#CCCCCC"> this still</font>
+
+98
+00:05:36,240 --> 00:05:41,150
+takes one bite<font color="#CCCCCC"> executed</font>
+
+99
+00:05:42,350 --> 00:05:46,960
+let's go to the other
+
+100
+00:05:47,520 --> 00:05:50,729
+<font color="#CCCCCC">now as you</font><font color="#E5E5E5"> know all the most of the</font>
+
+101
+00:05:50,729 --> 00:05:53,280
+tables if you know that have addresses
+
+102
+00:05:53,280 --> 00:05:55,770
+<font color="#CCCCCC">were delivery having a state so we can</font>
+
+103
+00:05:55,770 --> 00:05:59,310
+have a<font color="#E5E5E5"> B state always defined here in a</font>
+
+104
+00:05:59,310 --> 00:06:01,590
+case suppose if I wanted<font color="#CCCCCC"> to I did</font><font color="#E5E5E5"> not</font>
+
+105
+00:06:01,590 --> 00:06:03,240
+want to<font color="#CCCCCC"> have the abbreviation of the</font>
+
+106
+00:06:03,240 --> 00:06:05,160
+<font color="#E5E5E5">state I wanted to have a state full name</font>
+
+107
+00:06:05,160 --> 00:06:07,650
+<font color="#CCCCCC">I would</font><font color="#E5E5E5"> only have to modify this type</font>
+
+108
+00:06:07,650 --> 00:06:12,180
+here with<font color="#CCCCCC"> a</font><font color="#E5E5E5"> cap should</font><font color="#CCCCCC"> 2025 whatever or</font>
+
+109
+00:06:12,180 --> 00:06:14,699
+<font color="#E5E5E5">what whatever I wanted</font><font color="#CCCCCC"> to do and it</font><font color="#E5E5E5"> will</font>
+
+110
+00:06:14,699 --> 00:06:18,780
+get<font color="#E5E5E5"> actually affected in all the tables</font>
+
+111
+00:06:18,780 --> 00:06:22,430
+<font color="#E5E5E5">and procedure wherever I am using it</font>
+
+112
+00:06:22,789 --> 00:06:27,840
+here it is<font color="#E5E5E5"> another one</font><font color="#CCCCCC"> I can also</font>
+
+113
+00:06:27,840 --> 00:06:30,150
+specify<font color="#E5E5E5"> would not null here exactly</font><font color="#CCCCCC"> or I</font>
+
+114
+00:06:30,150 --> 00:06:33,000
+can specify at the inside a table<font color="#E5E5E5"> or</font><font color="#CCCCCC"> in</font>
+
+115
+00:06:33,000 --> 00:06:34,949
+the<font color="#E5E5E5"> whenever I am using it in the</font>
+
+116
+00:06:34,949 --> 00:06:36,449
+procedure<font color="#E5E5E5"> or</font><font color="#CCCCCC"> wherever the places I'm</font>
+
+117
+00:06:36,449 --> 00:06:39,720
+using it right<font color="#CCCCCC"> now in</font><font color="#E5E5E5"> this case I have</font>
+
+118
+00:06:39,720 --> 00:06:44,490
+used<font color="#E5E5E5"> it but do not null</font><font color="#CCCCCC"> right here now</font>
+
+119
+00:06:44,490 --> 00:06:46,830
+this<font color="#E5E5E5"> gives you a less flexibility when</font>
+
+120
+00:06:46,830 --> 00:06:49,800
+<font color="#E5E5E5">you say not null here right here then</font>
+
+121
+00:06:49,800 --> 00:06:53,960
+you cannot make<font color="#CCCCCC"> it null inside</font><font color="#E5E5E5"> the table</font>
+
+122
+00:06:54,290 --> 00:06:57,110
+now in this case I can<font color="#E5E5E5"> use it like</font><font color="#CCCCCC"> that</font>
+
+123
+00:06:57,110 --> 00:06:59,960
+<font color="#E5E5E5">or I can still take it as a not null and</font>
+
+124
+00:06:59,960 --> 00:07:01,850
+using by using in<font color="#E5E5E5"> that table because I</font>
+
+125
+00:07:01,850 --> 00:07:06,980
+have not<font color="#E5E5E5"> made it normally okay here's</font>
+
+126
+00:07:06,980 --> 00:07:09,340
+one<font color="#CCCCCC"> more</font>
+
+127
+00:07:11,229 --> 00:07:14,740
+<font color="#CCCCCC">I mean</font><font color="#E5E5E5"> creative one more data type I'm</font>
+
+128
+00:07:14,740 --> 00:07:17,409
+just creating a few just to show it to
+
+129
+00:07:17,409 --> 00:07:20,699
+you how<font color="#CCCCCC"> actually is</font><font color="#E5E5E5"> going to work</font>
+
+130
+00:07:22,080 --> 00:07:24,749
+usually you<font color="#CCCCCC"> would be</font><font color="#E5E5E5"> creating a lot</font><font color="#CCCCCC"> of</font>
+
+131
+00:07:24,749 --> 00:07:27,249
+<font color="#E5E5E5">user-defined</font><font color="#CCCCCC"> data types in a very large</font>
+
+132
+00:07:27,249 --> 00:07:30,249
+<font color="#E5E5E5">database you will have to first forget</font>
+
+133
+00:07:30,249 --> 00:07:31,629
+out what you<font color="#E5E5E5"> are going to do when</font><font color="#CCCCCC"> we</font>
+
+134
+00:07:31,629 --> 00:07:36,550
+would offer designing<font color="#CCCCCC"> our tables</font><font color="#E5E5E5"> here is</font>
+
+135
+00:07:36,550 --> 00:07:39,180
+one<font color="#E5E5E5"> of the thing</font>
+
+136
+00:07:46,220 --> 00:07:52,450
+<font color="#E5E5E5">here is the table</font><font color="#CCCCCC"> that uses</font><font color="#E5E5E5"> the</font>
+
+137
+00:07:54,310 --> 00:07:58,020
+<font color="#E5E5E5">user defined data type as you</font><font color="#CCCCCC"> can see</font>
+
+138
+00:07:58,020 --> 00:08:02,110
+I've created<font color="#E5E5E5"> a table</font><font color="#CCCCCC"> dbo testing</font><font color="#E5E5E5"> amp and</font>
+
+139
+00:08:02,110 --> 00:08:06,450
+not null<font color="#E5E5E5"> in this case I</font><font color="#CCCCCC"> will use</font><font color="#E5E5E5"> the</font>
+
+140
+00:08:06,450 --> 00:08:10,210
+needed I've got it<font color="#CCCCCC"> actually taking from</font>
+
+141
+00:08:10,210 --> 00:08:14,260
+the sequel server<font color="#E5E5E5"> and the rest I am</font>
+
+142
+00:08:14,260 --> 00:08:16,630
+<font color="#E5E5E5">using a</font><font color="#CCCCCC"> user-defined</font><font color="#E5E5E5"> data type as you</font>
+
+143
+00:08:16,630 --> 00:08:19,090
+<font color="#CCCCCC">can see</font><font color="#E5E5E5"> F name was name that I already</font>
+
+144
+00:08:19,090 --> 00:08:21,100
+defined up<font color="#CCCCCC"> a limb again name again I am</font>
+
+145
+00:08:21,100 --> 00:08:23,410
+<font color="#E5E5E5">using the same thing so I have in case</font>
+
+146
+00:08:23,410 --> 00:08:24,940
+<font color="#E5E5E5">now I</font><font color="#CCCCCC"> can</font><font color="#E5E5E5"> because I have not defined it</font>
+
+147
+00:08:24,940 --> 00:08:27,220
+as null<font color="#E5E5E5"> I can make one of them null and</font>
+
+148
+00:08:27,220 --> 00:08:29,800
+<font color="#E5E5E5">the other one not null if I defined it</font>
+
+149
+00:08:29,800 --> 00:08:34,809
+as a not null<font color="#E5E5E5"> up there then the thing is</font>
+
+150
+00:08:34,809 --> 00:08:37,120
+<font color="#E5E5E5">that I cannot actually make it not null</font>
+
+151
+00:08:37,120 --> 00:08:44,099
+or make it null as you can see
+
+152
+00:08:44,690 --> 00:08:47,089
+<font color="#CCCCCC">yeah</font><font color="#E5E5E5"> I've</font><font color="#CCCCCC"> defined us</font><font color="#E5E5E5"> dbo dot name for</font>
+
+153
+00:08:47,089 --> 00:08:49,550
+<font color="#E5E5E5">the work</font><font color="#CCCCCC"> our</font><font color="#E5E5E5"> 40 I'm not defined it as</font>
+
+154
+00:08:49,550 --> 00:08:52,279
+not null<font color="#CCCCCC"> so I can use it as null or not</font>
+
+155
+00:08:52,279 --> 00:08:53,720
+null<font color="#E5E5E5"> depending upon the situation</font>
+
+156
+00:08:53,720 --> 00:08:57,980
+<font color="#E5E5E5">wherever I want</font><font color="#CCCCCC"> to use it</font><font color="#E5E5E5"> we clear in</font>
+
+157
+00:08:57,980 --> 00:09:00,250
+what<font color="#E5E5E5"> you want to do and then only you</font>
+
+158
+00:09:00,250 --> 00:09:03,230
+start doing it until I you may later I
+
+159
+00:09:03,230 --> 00:09:05,089
+have<font color="#E5E5E5"> to have a lot</font><font color="#CCCCCC"> of problems</font><font color="#E5E5E5"> with a</font>
+
+160
+00:09:05,089 --> 00:09:10,850
+<font color="#CCCCCC">user-defined enter name now here they</font>
+
+161
+00:09:10,850 --> 00:09:12,769
+<font color="#CCCCCC">address be address</font><font color="#E5E5E5"> again address one we</font>
+
+162
+00:09:12,769 --> 00:09:15,910
+address one you see that<font color="#E5E5E5"> it's actually</font>
+
+163
+00:09:15,910 --> 00:09:19,160
+making a things easier and<font color="#E5E5E5"> suppose if I</font>
+
+164
+00:09:19,160 --> 00:09:20,930
+wanted<font color="#CCCCCC"> to change the address</font><font color="#E5E5E5"> size little</font>
+
+165
+00:09:20,930 --> 00:09:23,329
+bit to a longer size longer<font color="#E5E5E5"> this</font><font color="#CCCCCC"> thing I</font>
+
+166
+00:09:23,329 --> 00:09:25,910
+have to<font color="#CCCCCC"> get changed at one place</font><font color="#E5E5E5"> and I</font>
+
+167
+00:09:25,910 --> 00:09:27,440
+have to get all<font color="#E5E5E5"> the other type and it</font>
+
+168
+00:09:27,440 --> 00:09:29,120
+would get actually reflected here
+
+169
+00:09:29,120 --> 00:09:30,680
+automatically<font color="#E5E5E5"> I don't have to change it</font>
+
+170
+00:09:30,680 --> 00:09:32,569
+<font color="#CCCCCC">everywhere in that play</font><font color="#E5E5E5"> table</font><font color="#CCCCCC"> that's the</font>
+
+171
+00:09:32,569 --> 00:09:33,050
+<font color="#CCCCCC">point</font>
+
+172
+00:09:33,050 --> 00:09:34,370
+actually having for<font color="#CCCCCC"> having the</font>
+
+173
+00:09:34,370 --> 00:09:37,190
+user-defined data type now let's go to
+
+174
+00:09:37,190 --> 00:09:39,500
+the<font color="#CCCCCC"> V city-states</font><font color="#E5E5E5"> and this thing okay</font>
+
+175
+00:09:39,500 --> 00:09:40,519
+<font color="#E5E5E5">understood</font>
+
+176
+00:09:40,519 --> 00:09:42,889
+<font color="#CCCCCC">oh that's actually execute and create</font>
+
+177
+00:09:42,889 --> 00:09:45,220
+this table
+
+178
+00:09:48,520 --> 00:09:51,720
+<font color="#CCCCCC">now the table has been</font><font color="#E5E5E5"> created</font>
+
+179
+00:09:52,430 --> 00:09:55,300
+let's<font color="#CCCCCC"> check</font><font color="#E5E5E5"> it out</font>
+
+180
+00:09:55,850 --> 00:09:58,490
+<font color="#CCCCCC">maradona</font>
+
+181
+00:09:58,490 --> 00:10:00,529
+<font color="#E5E5E5">we'll help</font><font color="#CCCCCC"> testing</font>
+
+182
+00:10:00,529 --> 00:10:04,029
+<font color="#E5E5E5">check it out the table</font>
+
+183
+00:10:14,960 --> 00:10:18,589
+<font color="#E5E5E5">theoria we have this table created as</font>
+
+184
+00:10:18,589 --> 00:10:23,180
+<font color="#CCCCCC">you can see</font><font color="#E5E5E5"> okay and there is a name and</font>
+
+185
+00:10:23,180 --> 00:10:26,540
+other things here<font color="#E5E5E5"> let's move it a</font><font color="#CCCCCC"> little</font>
+
+186
+00:10:26,540 --> 00:10:30,950
+<font color="#E5E5E5">bit up</font><font color="#CCCCCC"> and as you</font><font color="#E5E5E5"> can see we have a</font>
+
+187
+00:10:30,950 --> 00:10:33,410
+<font color="#CCCCCC">user-defined data</font><font color="#E5E5E5"> tab actually being</font>
+
+188
+00:10:33,410 --> 00:10:41,209
+used in the table in the first<font color="#CCCCCC"> place</font><font color="#E5E5E5"> it</font>
+
+189
+00:10:41,209 --> 00:10:43,490
+is theory as<font color="#CCCCCC"> it is named and the rest</font>
+
+190
+00:10:43,490 --> 00:10:46,490
+are all user-defined it<font color="#CCCCCC"> all types of so</font>
+
+191
+00:10:46,490 --> 00:10:49,690
+you<font color="#E5E5E5"> can take it out the length here also</font>
+
+192
+00:10:50,080 --> 00:10:53,330
+okay now that you have got a<font color="#E5E5E5"> little</font><font color="#CCCCCC"> bit</font>
+
+193
+00:10:53,330 --> 00:10:54,649
+hang<font color="#E5E5E5"> of what are the</font><font color="#CCCCCC"> user-defined data</font>
+
+194
+00:10:54,649 --> 00:10:58,120
+pipe<font color="#CCCCCC"> will go move a little bit further</font>
+
+195
+00:10:58,120 --> 00:11:01,399
+<font color="#CCCCCC">know basically suppose if I</font><font color="#E5E5E5"> want to I</font>
+
+196
+00:11:01,399 --> 00:11:04,070
+<font color="#E5E5E5">want to drop the type I created with</font>
+
+197
+00:11:04,070 --> 00:11:06,320
+many other types<font color="#CCCCCC"> do I want to drop it</font>
+
+198
+00:11:06,320 --> 00:11:07,970
+will not allow me to<font color="#E5E5E5"> drop this data type</font>
+
+199
+00:11:07,970 --> 00:11:10,730
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> I have created</font><font color="#E5E5E5"> for a simple reason</font>
+
+200
+00:11:10,730 --> 00:11:13,490
+<font color="#CCCCCC">because our table is using it as you can</font>
+
+201
+00:11:13,490 --> 00:11:16,270
+<font color="#E5E5E5">see</font><font color="#CCCCCC"> it has thrown up the error message</font>
+
+202
+00:11:16,270 --> 00:11:20,180
+<font color="#E5E5E5">okay and which shows that the data type</font>
+
+203
+00:11:20,180 --> 00:11:23,690
+<font color="#CCCCCC">is being used okay we referenced by an</font>
+
+204
+00:11:23,690 --> 00:11:26,959
+object<font color="#E5E5E5"> testing</font><font color="#CCCCCC"> as a table name if there</font>
+
+205
+00:11:26,959 --> 00:11:28,839
+are other obvious it will be<font color="#E5E5E5"> listed here</font>
+
+206
+00:11:28,839 --> 00:11:32,540
+<font color="#CCCCCC">you cannot draw if I want to drop that</font>
+
+207
+00:11:32,540 --> 00:11:34,370
+data type<font color="#CCCCCC"> I have dropped all that</font>
+
+208
+00:11:34,370 --> 00:11:37,880
+objects before<font color="#E5E5E5"> or I have</font><font color="#CCCCCC"> to alter</font><font color="#E5E5E5"> data</font>
+
+209
+00:11:37,880 --> 00:11:40,730
+objects<font color="#CCCCCC"> before most most probably I</font>
+
+210
+00:11:40,730 --> 00:11:42,290
+would<font color="#E5E5E5"> be always ordering</font><font color="#CCCCCC"> add objects</font>
+
+211
+00:11:42,290 --> 00:11:44,510
+before<font color="#E5E5E5"> dropping a data type</font><font color="#CCCCCC"> I cannot</font>
+
+212
+00:11:44,510 --> 00:11:46,040
+<font color="#E5E5E5">drop</font><font color="#CCCCCC"> though all of objects</font><font color="#E5E5E5"> it doesn't</font>
+
+213
+00:11:46,040 --> 00:11:48,160
+make sense
+
+214
+00:11:51,060 --> 00:11:54,090
+now let's create<font color="#E5E5E5"> one more data type okay</font>
+
+215
+00:11:54,090 --> 00:11:55,910
+to show you what exactly<font color="#CCCCCC"> how it works</font>
+
+216
+00:11:55,910 --> 00:11:59,030
+now<font color="#E5E5E5"> I am</font><font color="#CCCCCC"> creating a type already numb</font>
+
+217
+00:11:59,030 --> 00:12:03,380
+<font color="#E5E5E5">okay and I will execute it</font>
+
+218
+00:12:05,180 --> 00:12:09,950
+<font color="#E5E5E5">okay there we go it has</font><font color="#CCCCCC"> created the type</font>
+
+219
+00:12:09,950 --> 00:12:11,540
+and<font color="#CCCCCC"> a lien I am going</font><font color="#E5E5E5"> to create one more</font>
+
+220
+00:12:11,540 --> 00:12:14,029
+table and I am going<font color="#CCCCCC"> to use going to</font><font color="#E5E5E5"> use</font>
+
+221
+00:12:14,029 --> 00:12:20,540
+that ID num to create an ID in the table
+
+222
+00:12:20,540 --> 00:12:23,870
+<font color="#CCCCCC">creating a user</font><font color="#E5E5E5"> after</font><font color="#CCCCCC"> creating</font><font color="#E5E5E5"> okay now</font>
+
+223
+00:12:23,870 --> 00:12:26,360
+all the table has been created<font color="#E5E5E5"> using a</font>
+
+224
+00:12:26,360 --> 00:12:29,570
+<font color="#E5E5E5">user-defined data type now I am going to</font>
+
+225
+00:12:29,570 --> 00:12:34,460
+insert a few rows into their table<font color="#E5E5E5"> let's</font>
+
+226
+00:12:34,460 --> 00:12:39,400
+say I inserted<font color="#CCCCCC"> three o's</font>
+
+227
+00:12:43,999 --> 00:12:49,959
+now I do have<font color="#CCCCCC"> heroes into</font><font color="#E5E5E5"> the devil</font>
+
+228
+00:12:50,029 --> 00:12:52,939
+now suppose if I wanted<font color="#E5E5E5"> to grow up the</font>
+
+229
+00:12:52,939 --> 00:12:55,250
+data type<font color="#CCCCCC"> I would have a first order</font>
+
+230
+00:12:55,250 --> 00:12:58,310
+<font color="#CCCCCC">that tables</font><font color="#E5E5E5"> test</font><font color="#CCCCCC"> to where I have</font>
+
+231
+00:12:58,310 --> 00:13:00,560
+inserted three rows and alter the column
+
+232
+00:13:00,560 --> 00:13:04,819
+ID with a<font color="#CCCCCC"> very</font><font color="#E5E5E5"> cat well not null exactly</font>
+
+233
+00:13:04,819 --> 00:13:07,399
+the same<font color="#E5E5E5"> length as of the data type all</font>
+
+234
+00:13:07,399 --> 00:13:09,910
+<font color="#E5E5E5">contain a</font><font color="#CCCCCC"> different length</font><font color="#E5E5E5"> but usually</font>
+
+235
+00:13:09,910 --> 00:13:14,410
+as it was defined as<font color="#CCCCCC"> Bearcat 12 here I</font>
+
+236
+00:13:14,410 --> 00:13:18,139
+can<font color="#E5E5E5"> change it to the Barker 12 and then</font>
+
+237
+00:13:18,139 --> 00:13:20,029
+drop the data type that<font color="#CCCCCC"> I have created</font>
+
+238
+00:13:20,029 --> 00:13:22,689
+<font color="#E5E5E5">in</font><font color="#CCCCCC"> here</font>
+
+239
+00:13:24,760 --> 00:13:27,160
+now let's<font color="#E5E5E5"> run it</font>
+
+240
+00:13:27,160 --> 00:13:30,519
+<font color="#E5E5E5">I'm going to alter the</font><font color="#CCCCCC"> table</font><font color="#E5E5E5"> later I am</font>
+
+241
+00:13:30,519 --> 00:13:31,930
+<font color="#CCCCCC">going to drop that pipe</font><font color="#E5E5E5"> that I have</font>
+
+242
+00:13:31,930 --> 00:13:35,110
+already created<font color="#E5E5E5"> to show you</font><font color="#CCCCCC"> today</font><font color="#E5E5E5"> how it</font>
+
+243
+00:13:35,110 --> 00:13:37,629
+works<font color="#E5E5E5"> before actually going through</font>
+
+244
+00:13:37,629 --> 00:13:39,819
+let's run<font color="#E5E5E5"> it once this thing once</font><font color="#CCCCCC"> again</font>
+
+245
+00:13:39,819 --> 00:13:42,550
+be<font color="#E5E5E5"> confirming that this cannot be</font>
+
+246
+00:13:42,550 --> 00:13:50,649
+dropped as you can see it cannot be
+
+247
+00:13:50,649 --> 00:13:52,029
+dropped it is being referenced by<font color="#CCCCCC"> the</font>
+
+248
+00:13:52,029 --> 00:13:54,430
+table do<font color="#CCCCCC"> no I'm going to</font><font color="#E5E5E5"> order a table</font>
+
+249
+00:13:54,430 --> 00:13:58,709
+<font color="#E5E5E5">too and I'm going</font><font color="#CCCCCC"> to execute</font><font color="#E5E5E5"> it</font>
+
+250
+00:14:00,790 --> 00:14:03,010
+and once<font color="#E5E5E5"> the table being people has been</font>
+
+251
+00:14:03,010 --> 00:14:04,660
+<font color="#CCCCCC">altered then I can drop their type</font>
+
+252
+00:14:04,660 --> 00:14:06,790
+<font color="#E5E5E5">because now it is no moving</font><font color="#CCCCCC"> reference by</font>
+
+253
+00:14:06,790 --> 00:14:09,490
+that table<font color="#E5E5E5"> of course if it</font><font color="#CCCCCC"> was even</font>
+
+254
+00:14:09,490 --> 00:14:11,110
+<font color="#E5E5E5">reference by are some other objects then</font>
+
+255
+00:14:11,110 --> 00:14:12,670
+still you<font color="#E5E5E5"> have to</font><font color="#CCCCCC"> actually</font><font color="#E5E5E5"> order that</font>
+
+256
+00:14:12,670 --> 00:14:14,290
+those<font color="#E5E5E5"> objects</font><font color="#CCCCCC"> also may be</font><font color="#E5E5E5"> stored</font>
+
+257
+00:14:14,290 --> 00:14:15,880
+procedure<font color="#CCCCCC"> maybe other tables we</font><font color="#E5E5E5"> are able</font>
+
+258
+00:14:15,880 --> 00:14:18,250
+being<font color="#E5E5E5"> reference in this case there this</font>
+
+259
+00:14:18,250 --> 00:14:19,570
+<font color="#E5E5E5">is the only table it is being reference</font>
+
+260
+00:14:19,570 --> 00:14:22,960
+to and I have altered<font color="#CCCCCC"> that table and I</font>
+
+261
+00:14:22,960 --> 00:14:25,950
+<font color="#CCCCCC">am going</font><font color="#E5E5E5"> to now execute this thing and</font>
+
+262
+00:14:25,950 --> 00:14:28,510
+you will see that the type has<font color="#CCCCCC"> been</font>
+
+263
+00:14:28,510 --> 00:14:30,810
+dropped
+
+264
+00:14:35,060 --> 00:14:37,820
+now let's create<font color="#E5E5E5"> one more type again</font>
+
+265
+00:14:37,820 --> 00:14:39,710
+<font color="#E5E5E5">let's create another type</font><font color="#CCCCCC"> user-defined</font>
+
+266
+00:14:39,710 --> 00:14:41,290
+area type that this<font color="#E5E5E5"> is known</font><font color="#CCCCCC"> in my</font><font color="#E5E5E5"> state</font>
+
+267
+00:14:41,290 --> 00:14:43,880
+<font color="#E5E5E5">this time I'm going to use</font><font color="#CCCCCC"> it in the</font>
+
+268
+00:14:43,880 --> 00:14:46,450
+stored procedure rather<font color="#E5E5E5"> than that table</font>
+
+269
+00:14:46,450 --> 00:14:49,030
+here it goes
+
+270
+00:14:49,030 --> 00:14:52,220
+<font color="#E5E5E5">okay I will just</font><font color="#CCCCCC"> take it up whether</font>
+
+271
+00:14:52,220 --> 00:14:54,320
+<font color="#E5E5E5">there are there a procedure exists</font><font color="#CCCCCC"> if an</font>
+
+272
+00:14:54,320 --> 00:14:57,610
+<font color="#CCCCCC">accessory I want to drop it</font>
+
+273
+00:14:59,450 --> 00:15:01,700
+<font color="#E5E5E5">okay because it doesn't</font><font color="#CCCCCC"> excel well and</font>
+
+274
+00:15:01,700 --> 00:15:05,510
+<font color="#E5E5E5">good</font><font color="#CCCCCC"> now I'm going to create a stored</font>
+
+275
+00:15:05,510 --> 00:15:08,270
+procedure<font color="#E5E5E5"> who</font><font color="#CCCCCC"> say is create</font><font color="#E5E5E5"> Ock</font><font color="#CCCCCC"> DV oh</font>
+
+276
+00:15:08,270 --> 00:15:10,580
+<font color="#E5E5E5">that is schema name by default my</font>
+
+277
+00:15:10,580 --> 00:15:14,180
+procedure<font color="#E5E5E5"> state my this is the</font><font color="#CCCCCC"> way</font><font color="#E5E5E5"> I am</font>
+
+278
+00:15:14,180 --> 00:15:15,800
+using a<font color="#E5E5E5"> user-defined data type again</font>
+
+279
+00:15:15,800 --> 00:15:19,850
+here<font color="#E5E5E5"> as you can</font><font color="#CCCCCC"> see</font><font color="#E5E5E5"> and I am going to</font>
+
+280
+00:15:19,850 --> 00:15:22,310
+select it as this thing the variable
+
+281
+00:15:22,310 --> 00:15:27,080
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> is being passed actually is the</font>
+
+282
+00:15:27,080 --> 00:15:30,170
+input<font color="#E5E5E5"> variable is</font><font color="#CCCCCC"> user-defined</font><font color="#E5E5E5"> it</font>
+
+283
+00:15:30,170 --> 00:15:31,610
+<font color="#E5E5E5">arrived state has been defined as my</font>
+
+284
+00:15:31,610 --> 00:15:34,490
+state which was created before that
+
+285
+00:15:34,490 --> 00:15:36,740
+<font color="#CCCCCC">user-defined data type and I am going</font><font color="#E5E5E5"> to</font>
+
+286
+00:15:36,740 --> 00:15:40,190
+actually<font color="#CCCCCC"> create this procedure by</font>
+
+287
+00:15:40,190 --> 00:15:42,820
+executing<font color="#E5E5E5"> it</font>
+
+288
+00:15:45,690 --> 00:15:48,630
+and it has created<font color="#E5E5E5"> a procedure now let's</font>
+
+289
+00:15:48,630 --> 00:15:52,650
+actually execute this procedure and
+
+290
+00:15:52,650 --> 00:15:55,670
+let's see it
+
+291
+00:15:56,570 --> 00:15:59,810
+it should<font color="#E5E5E5"> work</font><font color="#CCCCCC"> and then we</font><font color="#E5E5E5"> will try to</font>
+
+292
+00:15:59,810 --> 00:16:03,170
+drop that<font color="#E5E5E5"> user-defined data type my</font>
+
+293
+00:16:03,170 --> 00:16:06,710
+state<font color="#E5E5E5"> and see what exactly</font><font color="#CCCCCC"> it comes to</font>
+
+294
+00:16:06,710 --> 00:16:11,060
+as you can see all the<font color="#E5E5E5"> rows for the</font>
+
+295
+00:16:11,060 --> 00:16:16,010
+<font color="#E5E5E5">state CA has been</font><font color="#CCCCCC"> listed now let's drop</font>
+
+296
+00:16:16,010 --> 00:16:17,660
+the user-defined<font color="#CCCCCC"> datatype</font><font color="#E5E5E5"> and let's see</font>
+
+297
+00:16:17,660 --> 00:16:18,640
+what happens
+
+298
+00:16:18,640 --> 00:16:20,900
+it should throw up the error message
+
+299
+00:16:20,900 --> 00:16:22,910
+<font color="#E5E5E5">that is being</font><font color="#CCCCCC"> referenced by the object</font>
+
+300
+00:16:22,910 --> 00:16:27,140
+my procedure<font color="#CCCCCC"> as you can see it has</font>
+
+301
+00:16:27,140 --> 00:16:29,330
+already<font color="#E5E5E5"> given it it is being referenced</font>
+
+302
+00:16:29,330 --> 00:16:31,310
+by<font color="#CCCCCC"> the object my procedure you cannot</font>
+
+303
+00:16:31,310 --> 00:16:33,830
+drop<font color="#CCCCCC"> the</font><font color="#E5E5E5"> data type now let's go and</font>
+
+304
+00:16:33,830 --> 00:16:36,190
+<font color="#E5E5E5">alter the stored procedure that is</font>
+
+305
+00:16:36,190 --> 00:16:39,470
+actually created and<font color="#CCCCCC"> removed at</font>
+
+306
+00:16:39,470 --> 00:16:43,600
+reference<font color="#E5E5E5"> to that user-defined data type</font>
+
+307
+00:16:43,600 --> 00:16:47,890
+here it is<font color="#CCCCCC"> I altered it</font>
+
+308
+00:16:48,040 --> 00:16:50,890
+as you can see character<font color="#CCCCCC"> to</font><font color="#E5E5E5"> it has been</font>
+
+309
+00:16:50,890 --> 00:16:54,840
+defined<font color="#E5E5E5"> and it has been altered</font>
+
+310
+00:16:59,529 --> 00:17:02,819
+<font color="#E5E5E5">no drop type</font>
+
+311
+00:17:03,080 --> 00:17:07,540
+again<font color="#CCCCCC"> there's executed</font>
+
+312
+00:17:07,599 --> 00:17:12,328
+there we go well what completed
+
+313
+00:17:17,679 --> 00:17:20,480
+create type
+
+314
+00:17:20,480 --> 00:17:23,148
+now this time I'm going to<font color="#E5E5E5"> show you how</font>
+
+315
+00:17:23,148 --> 00:17:26,989
+<font color="#E5E5E5">to create a type user-defined data type</font>
+
+316
+00:17:26,989 --> 00:17:30,619
+<font color="#E5E5E5">of a table rather</font><font color="#CCCCCC"> than just a single</font>
+
+317
+00:17:30,619 --> 00:17:35,289
+<font color="#CCCCCC">type here</font><font color="#E5E5E5"> is it I'm going to create type</font>
+
+318
+00:17:35,289 --> 00:17:40,220
+<font color="#CCCCCC">computers TTD at a table I am going to</font>
+
+319
+00:17:40,220 --> 00:17:42,710
+<font color="#CCCCCC">actually use a scale this thing</font><font color="#E5E5E5"> and I am</font>
+
+320
+00:17:42,710 --> 00:17:46,970
+<font color="#E5E5E5">going to create a table now we are going</font>
+
+321
+00:17:46,970 --> 00:17:50,739
+<font color="#E5E5E5">to use at people for little bit other</font>
+
+322
+00:17:50,739 --> 00:17:55,090
+technical functions let's execute it
+
+323
+00:17:59,040 --> 00:18:02,460
+now<font color="#E5E5E5"> I show you why we</font><font color="#CCCCCC"> actually okay it</font>
+
+324
+00:18:02,460 --> 00:18:05,309
+already<font color="#E5E5E5"> exists</font><font color="#CCCCCC"> no problem</font><font color="#E5E5E5"> okay this is</font>
+
+325
+00:18:05,309 --> 00:18:06,929
+the create type already<font color="#CCCCCC"> exist</font><font color="#E5E5E5"> I don't</font>
+
+326
+00:18:06,929 --> 00:18:11,130
+want to actually recreate it okay<font color="#E5E5E5"> okay</font>
+
+327
+00:18:11,130 --> 00:18:15,990
+<font color="#E5E5E5">now let's actually drop this table</font><font color="#CCCCCC"> would</font>
+
+328
+00:18:15,990 --> 00:18:17,990
+exist if it doesn't exist<font color="#CCCCCC"> but I'm good</font>
+
+329
+00:18:17,990 --> 00:18:21,690
+<font color="#CCCCCC">when I'm good</font><font color="#E5E5E5"> now we are going to create</font>
+
+330
+00:18:21,690 --> 00:18:27,770
+the people create table computer skills
+
+331
+00:18:31,850 --> 00:18:33,739
+<font color="#E5E5E5">okay now we have</font><font color="#CCCCCC"> created a table with a</font>
+
+332
+00:18:33,739 --> 00:18:36,859
+computer skills<font color="#CCCCCC"> and we are going to</font>
+
+333
+00:18:36,859 --> 00:18:40,999
+insert some few rows into<font color="#E5E5E5"> this table and</font>
+
+334
+00:18:40,999 --> 00:18:42,830
+then we are<font color="#E5E5E5"> going to use the</font>
+
+335
+00:18:42,830 --> 00:18:45,729
+user-defined<font color="#CCCCCC"> table</font>
+
+336
+00:18:51,910 --> 00:18:54,640
+and all<font color="#CCCCCC"> here it is</font>
+
+337
+00:18:54,640 --> 00:19:00,170
+we are going to<font color="#E5E5E5"> create a procedure first</font>
+
+338
+00:19:00,170 --> 00:19:03,170
+which is<font color="#E5E5E5"> going to it says create</font>
+
+339
+00:19:03,170 --> 00:19:04,130
+procedure<font color="#E5E5E5"> dbo</font>
+
+340
+00:19:04,130 --> 00:19:07,670
+user insert computer skills in the<font color="#E5E5E5"> skill</font>
+
+341
+00:19:07,670 --> 00:19:11,809
+table as computer<font color="#CCCCCC"> TT read only</font><font color="#E5E5E5"> this is</font>
+
+342
+00:19:11,809 --> 00:19:13,730
+actually the data<font color="#E5E5E5"> type we</font><font color="#CCCCCC"> have defined</font>
+
+343
+00:19:13,730 --> 00:19:19,970
+up<font color="#CCCCCC"> compared to</font><font color="#E5E5E5"> TD type at a table these</font>
+
+344
+00:19:19,970 --> 00:19:22,910
+are the two fields<font color="#E5E5E5"> of this type</font><font color="#CCCCCC"> of a</font>
+
+345
+00:19:22,910 --> 00:19:25,760
+table<font color="#E5E5E5"> and this is varied but we</font><font color="#CCCCCC"> actually</font>
+
+346
+00:19:25,760 --> 00:19:28,510
+be creating the
+
+347
+00:19:36,429 --> 00:19:38,980
+data type as of the scale table which
+
+348
+00:19:38,980 --> 00:19:40,500
+will be of the<font color="#CCCCCC"> computed DD type</font>
+
+349
+00:19:40,500 --> 00:19:46,559
+<font color="#CCCCCC">read-only</font><font color="#E5E5E5"> as insert computer skills</font>
+
+350
+00:19:46,559 --> 00:19:51,429
+<font color="#E5E5E5">skill type skill group select skill</font>
+
+351
+00:19:51,429 --> 00:19:57,190
+<font color="#CCCCCC">skill up from</font><font color="#E5E5E5"> skill table go</font><font color="#CCCCCC"> now that</font>
+
+352
+00:19:57,190 --> 00:20:00,940
+table<font color="#CCCCCC"> will be passed on from now to the</font>
+
+353
+00:20:00,940 --> 00:20:03,010
+create procedure<font color="#E5E5E5"> and that would be</font>
+
+354
+00:20:03,010 --> 00:20:05,309
+inserted<font color="#CCCCCC"> into computer skills</font>
+
+355
+00:20:05,309 --> 00:20:08,559
+now hold on for a minute<font color="#CCCCCC"> I</font><font color="#E5E5E5"> just show it</font>
+
+356
+00:20:08,559 --> 00:20:10,950
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> you</font>
+
+357
+00:20:19,090 --> 00:20:21,910
+this is a table<font color="#CCCCCC"> net is known as a create</font>
+
+358
+00:20:21,910 --> 00:20:24,130
+<font color="#E5E5E5">computer skills we are</font><font color="#CCCCCC"> be able to insert</font>
+
+359
+00:20:24,130 --> 00:20:26,940
+the rows<font color="#CCCCCC"> okay</font>
+
+360
+00:20:26,940 --> 00:20:34,030
+now firstly it says insert computer
+
+361
+00:20:34,030 --> 00:20:35,680
+skills<font color="#E5E5E5"> the</font><font color="#CCCCCC"> skill</font><font color="#E5E5E5"> type these are the</font>
+
+362
+00:20:35,680 --> 00:20:37,720
+field name select this thing and this
+
+363
+00:20:37,720 --> 00:20:39,520
+<font color="#E5E5E5">would be coming from the stored</font>
+
+364
+00:20:39,520 --> 00:20:43,320
+procedure<font color="#E5E5E5"> up as a parameter</font><font color="#CCCCCC"> we passed</font>
+
+365
+00:20:43,320 --> 00:20:46,320
+<font color="#E5E5E5">now</font>
+
+366
+00:20:47,290 --> 00:20:51,280
+<font color="#CCCCCC">now we are going</font><font color="#E5E5E5"> to insert hold hold</font><font color="#CCCCCC"> add</font>
+
+367
+00:20:51,280 --> 00:20:55,559
+people<font color="#E5E5E5"> we are going</font><font color="#CCCCCC"> to create a table</font>
+
+368
+00:20:55,559 --> 00:20:58,270
+<font color="#E5E5E5">right as a computer</font><font color="#CCCCCC"> TT type to</font><font color="#E5E5E5"> hold or</font>
+
+369
+00:20:58,270 --> 00:21:01,210
+data this data may be<font color="#E5E5E5"> coming</font><font color="#CCCCCC"> from some</font>
+
+370
+00:21:01,210 --> 00:21:03,610
+other<font color="#E5E5E5"> place okay but before you</font>
+
+371
+00:21:03,610 --> 00:21:05,230
+understand this thing then we insert
+
+372
+00:21:05,230 --> 00:21:08,919
+<font color="#E5E5E5">this thing into</font><font color="#CCCCCC"> the hold skill</font><font color="#E5E5E5"> table</font>
+
+373
+00:21:08,919 --> 00:21:11,290
+data type<font color="#CCCCCC"> that has been</font><font color="#E5E5E5"> created as this</font>
+
+374
+00:21:11,290 --> 00:21:14,740
+<font color="#E5E5E5">thing as</font><font color="#CCCCCC"> computer didi type</font><font color="#E5E5E5"> okay and I</font>
+
+375
+00:21:14,740 --> 00:21:19,919
+<font color="#CCCCCC">can insert rows and then I can execute</font>
+
+376
+00:21:19,919 --> 00:21:22,770
+this dbo insert computer skills
+
+377
+00:21:22,770 --> 00:21:24,880
+procedure and I can pass the<font color="#E5E5E5"> whole</font>
+
+378
+00:21:24,880 --> 00:21:27,970
+<font color="#CCCCCC">discreet table right there</font><font color="#E5E5E5"> but remember</font>
+
+379
+00:21:27,970 --> 00:21:30,309
+that<font color="#E5E5E5"> thing you cannot actually separate</font>
+
+380
+00:21:30,309 --> 00:21:32,830
+<font color="#E5E5E5">things separate them if you separate</font>
+
+381
+00:21:32,830 --> 00:21:36,340
+them<font color="#E5E5E5"> it will not work you have to</font>
+
+382
+00:21:36,340 --> 00:21:38,919
+execute all these three together<font color="#E5E5E5"> declare</font>
+
+383
+00:21:38,919 --> 00:21:41,100
+it and insert it and<font color="#E5E5E5"> execute it</font>
+
+384
+00:21:41,100 --> 00:21:46,559
+otherwise it<font color="#E5E5E5"> doesn't create</font><font color="#CCCCCC"> the inserts</font>
+
+385
+00:21:46,559 --> 00:21:50,320
+<font color="#E5E5E5">and it will give you an error now let's</font>
+
+386
+00:21:50,320 --> 00:21:52,799
+execute it
+
+387
+00:21:59,710 --> 00:22:02,590
+now you can see it has<font color="#E5E5E5"> inserted many</font>
+
+388
+00:22:02,590 --> 00:22:05,800
+many of the<font color="#E5E5E5"> rows in a single disdain and</font>
+
+389
+00:22:05,800 --> 00:22:07,420
+one one one<font color="#CCCCCC"> row</font><font color="#E5E5E5"> and there is a seven</font>
+
+390
+00:22:07,420 --> 00:22:07,810
+<font color="#CCCCCC">room</font>
+
+391
+00:22:07,810 --> 00:22:10,240
+the<font color="#E5E5E5"> seventh row has been inserted with</font>
+
+392
+00:22:10,240 --> 00:22:12,640
+the<font color="#E5E5E5"> lost execute</font><font color="#CCCCCC"> state</font><font color="#E5E5E5"> when these six</font>
+
+393
+00:22:12,640 --> 00:22:15,060
+are<font color="#E5E5E5"> from this thing seven more from here</font>
+
+394
+00:22:15,060 --> 00:22:18,250
+first seven one one<font color="#CCCCCC"> rows and that was</font>
+
+395
+00:22:18,250 --> 00:22:19,810
+the seven rows that<font color="#CCCCCC"> I</font><font color="#E5E5E5"> been actually</font>
+
+396
+00:22:19,810 --> 00:22:22,300
+showing affected was executed<font color="#E5E5E5"> is from</font>
+
+397
+00:22:22,300 --> 00:22:25,000
+the insert<font color="#E5E5E5"> the computer skills this is</font>
+
+398
+00:22:25,000 --> 00:22:26,770
+the stored procedure<font color="#E5E5E5"> and I will just</font>
+
+399
+00:22:26,770 --> 00:22:30,540
+<font color="#E5E5E5">show it to</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> we</font><font color="#CCCCCC"> are it is go on into</font>
+
+400
+00:22:30,540 --> 00:22:33,460
+it is gone into<font color="#E5E5E5"> the computer skills</font>
+
+401
+00:22:33,460 --> 00:22:38,170
+table<font color="#E5E5E5"> okay now</font><font color="#CCCCCC"> I am</font><font color="#E5E5E5"> going to show you</font>
+
+402
+00:22:38,170 --> 00:22:40,180
+the contents<font color="#E5E5E5"> of the computer skill table</font>
+
+403
+00:22:40,180 --> 00:22:45,340
+and this will once<font color="#E5E5E5"> you see we will end</font>
+
+404
+00:22:45,340 --> 00:22:47,520
+the session here
+
+405
+00:22:47,520 --> 00:22:51,150
+this is select
+
+406
+00:22:51,750 --> 00:22:54,750
+execute
+
+407
+00:22:59,840 --> 00:23:02,720
+and as you can<font color="#CCCCCC"> see all the</font><font color="#E5E5E5"> seven rows</font>
+
+408
+00:23:02,720 --> 00:23:05,660
+have been<font color="#CCCCCC"> actually jumped up into this</font>
+
+409
+00:23:05,660 --> 00:23:11,240
+<font color="#E5E5E5">table this was how</font><font color="#CCCCCC"> actually</font><font color="#E5E5E5"> you can use</font>
+
+410
+00:23:11,240 --> 00:23:13,580
+a user-defined<font color="#CCCCCC"> data type you can you</font>
+
+411
+00:23:13,580 --> 00:23:15,980
+create<font color="#E5E5E5"> a table of the type you can use a</font>
+
+412
+00:23:15,980 --> 00:23:17,990
+user-defined<font color="#E5E5E5"> enough it has many many</font>
+
+413
+00:23:17,990 --> 00:23:21,920
+many many<font color="#E5E5E5"> positive things</font><font color="#CCCCCC"> you can do</font>
+
+414
+00:23:21,920 --> 00:23:25,760
+with it it is also<font color="#CCCCCC"> being used in the</font>
+
+415
+00:23:25,760 --> 00:23:28,040
+<font color="#E5E5E5">data modeling tools like</font><font color="#CCCCCC"> Earvin</font><font color="#E5E5E5"> power</font>
+
+416
+00:23:28,040 --> 00:23:33,610
+<font color="#E5E5E5">designer</font><font color="#CCCCCC"> er</font><font color="#E5E5E5"> studios and many others</font>
+
+417
+00:23:33,610 --> 00:23:35,570
+basically<font color="#CCCCCC"> they are</font><font color="#E5E5E5"> known as data</font>
+
+418
+00:23:35,570 --> 00:23:38,690
+dictionary<font color="#CCCCCC"> they're</font><font color="#E5E5E5"> okay I'll just</font><font color="#CCCCCC"> send</font>
+
+419
+00:23:38,690 --> 00:00:00,000
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> here for</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> user-defined datatype</font>
+
