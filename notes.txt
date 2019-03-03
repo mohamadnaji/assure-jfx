@@ -1,3 +1,2 @@
 can i beilieve it it is fully integrated to visual code showing all changes made 
 
-git pull = git fetch + git merge
