@@ -27,10 +27,10 @@ public class SceneFactory {
 		Scene scene = null;
 		try {
 			if (AIOScene.containsKey(Path)) {
-				// System.out.println("i use a recent scene called "+ Path);
+				 System.out.println("i use a recent scene called "+ Path);
 				scene = AIOScene.get(Path);
 			} else {
-				// System.out.println("i put a new scene with path : "+ Path);
+				 System.out.println("i put a new scene with path : "+ Path);
 				scene = getScene(Path);
 				AIOScene.put(Path, scene);
 			}
