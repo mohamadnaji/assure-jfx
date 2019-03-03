@@ -8,3 +8,7 @@ Assurance Project Testing
 ## agent simple login example
 * id :23 
 * pass: 1
+### Requirement  
+* JDK 8 
+* javafx plugin for eclipse
+* Microsoft SQL Server to import [Database](/z_Database+references/Data-Base-sql.bak)
