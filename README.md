@@ -1,3 +1,3 @@
 # assure-jfx
 Assurance Project Testing
-[Check for Documentation](assure-jfx/Documentation.pdf)
+[Check for Documentation](Documentation.pdf)
