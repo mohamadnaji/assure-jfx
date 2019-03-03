@@ -1,0 +1,6 @@
+user pro pass 123 for me mssql for project
+for ecipse go propriteies add libarary external jar
+note :
+
+to control a scene we must own the instance of class controller controlling it so i save it in scene.setuserdata()
+or we can create a map as i did for the scene info

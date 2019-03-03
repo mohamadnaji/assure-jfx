@@ -1,10 +1,4 @@
-
-well i'm from bransh what will you do
-master was
-what ever you say
-
-
 later add enter button binding keys see extarnal links
 
-in class DBconnection in src edit your own database setup
+to get a backup from naji go to db and edit connnection
 String m_Connection = "jdbc:sqlserver://localhost:1433;databaseName=Project_Prototype;user=pro;password=123;";
