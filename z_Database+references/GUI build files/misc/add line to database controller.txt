@@ -1,0 +1,1 @@
+String m_Connection = "jdbc:sqlserver://localhost:1433;databaseName=Project_Prototype;user=pro;password=123;";
