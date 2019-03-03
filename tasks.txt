@@ -1,9 +1,0 @@
-well i'm from bransh what will you do
-what ever you say
-
-this is awsome
-
-later add enter button binding keys see extarnal links
-
-in class DBconnection in src edit your own database setup
-String m_Connection = "jdbc:sqlserver://localhost:1433;databaseName=Project_Prototype;user=pro;password=123;";
