@@ -14,6 +14,7 @@ public class Main extends Application {
 	public void start(Stage primaryStage) {
 		mystage = primaryStage;
 		mystage.setTitle("Inssurance System");
+		// just performed a change notice  A > next to file in eclipse
 		mystage.getIcons().add(new Image("/img/icon-quality-assurance.png"));
 		mystage.setResizable(false);
 		// System.out.println("im in and stage is "+mystage);

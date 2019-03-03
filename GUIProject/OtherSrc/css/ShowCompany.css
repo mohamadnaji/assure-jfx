@@ -41,8 +41,6 @@
 
 .table-view{
     -fx-background-color: aliceblue;
-    -fx-font-size:14.0;
-    -fx-font-weight: bold;
 }
 
 .table-view .column-header {
