@@ -21,7 +21,7 @@ public class Main extends Application {
 		try {
 			init();
 		} catch (Exception e1) {
-	
+			
 			Stage stage = (Stage) mystage.getScene().getWindow();
 			AlertController.alertExc(e1.getMessage(), (Exception) e1, stage);
 		}
